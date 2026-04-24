@@ -10,7 +10,7 @@ Before going independent in 2025, I led data and AI organizations at
 Kaizen Gaming (Director of Technology, Data & AI) and CI&T (Senior
 Director of Data Science & AI), with earlier work in pharma and
 consulting. Over the years, that has meant delivering for clients like
-Nestlé, Kraft Heinz, Itaú, and Coca-Cola, Motability, Convatec and Costa Cafe 
+Nestlé, Kraft Heinz, Itaú, Coca-Cola, Motability, Convatec and Costa Cafe 
 where I transformed operations and analytics, scaling data functions
 from small teams to organization-wide enablers.
 
